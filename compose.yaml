@@ -4,7 +4,7 @@ services:
 
         container_name: shinobi-notus-react-dashboard
         
-        image: softwareshinobi/shinobi-notus-react-dashboard
+        image: jacqueskingram/shinobi-notus-react-dashboard
 
         build: 
 
